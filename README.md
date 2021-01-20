@@ -4,7 +4,7 @@ Packages library of the CP robotics structures developed in ROS (simlar to [the 
 This library contains packages in which most of the robotic structures built at the Research Center Enrico Piaggio are modeled.
 Rigid and elastic dynamics of those systems can be simulated in Gazebo leveraging on the **ROS-Gazebo-plugin-qbmove** plugin and on the URDF descriptions.
 
-Up to now the structures for which the dynamic block is available are:
+Up to now the structures available are:
 - simplecube (1Dof)
 - 2Dofs 
 - SoftLegs (by Giamma! :D)
